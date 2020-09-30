@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucebag.github.io/zhiyuan.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-09-30T07:02:23.917Z</updated>
+    <updated>2020-09-30T07:02:56.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucebag.github.io/zhiyuan.github.io/"/>
     <link rel="self" href="https://brucebag.github.io/zhiyuan.github.io/atom.xml"/>
@@ -10,21 +10,6 @@
     <logo>https://brucebag.github.io/zhiyuan.github.io/images/avatar.png</logo>
     <icon>https://brucebag.github.io/zhiyuan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[项目学习进度]]></title>
-        <id>https://brucebag.github.io/zhiyuan.github.io/post/xiang-mu-xue-xi-jin-du/</id>
-        <link href="https://brucebag.github.io/zhiyuan.github.io/post/xiang-mu-xue-xi-jin-du/">
-        </link>
-        <updated>2020-07-30T02:19:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>总结已学内容：<br>
-可以向学生提示：你学到了什么？什么效果好？这个项目在哪个方面最具挑战性？下次你会做什么不同的事情？<br>
-🤑</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>总结已学内容：<br>
-可以向学生提示：你学到了什么？什么效果好？这个项目在哪个方面最具挑战性？下次你会做什么不同的事情？<br>
-🤑</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://brucebag.github.io/zhiyuan.github.io/post/hello-gridea/</id>
